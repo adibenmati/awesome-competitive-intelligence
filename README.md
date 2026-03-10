@@ -6,6 +6,7 @@
 
 - [Analysis Tools](#analysis-tools)
 - [Frameworks](#frameworks)
+- [Templates & Guides](#templates--guides)
 - [Data Sources](#data-sources)
 - [Reports & Research](#reports--research)
 - [Books](#books)
@@ -14,7 +15,7 @@
 ## Analysis Tools
 
 ### AI-Powered
-- [ZeroIntel](https://oxnr.github.io/zhc/) — AI-powered competitive intelligence reports. Get detailed competitor analysis for $49-$249 instead of $5K+ from consultants.
+- [ZeroIntel](https://zerointel.xyz) — AI-powered competitive intelligence reports. Get detailed competitor analysis for $49-$249 instead of $5K+ from consultants.
 - [Crayon](https://www.crayon.co/) — AI-driven competitive intelligence platform for enterprise teams.
 - [Klue](https://klue.com/) — Competitive enablement for sales teams.
 - [Kompyte](https://www.kompyte.com/) — Automated competitor tracking and battlecards.
@@ -49,6 +50,14 @@ Understand what job customers hire your product (and competitors' products) to d
 ### Competitive Positioning Map
 Plot competitors on a 2x2 matrix using the two dimensions most important to your buyers. Identifies gaps and opportunities.
 
+## Templates & Guides
+
+Free resources for doing competitive intelligence:
+
+- [Competitive Analysis Template](https://gist.github.com/oxnr/95860d7b0221914d4a5ab00509b13d4b) — Structured framework for analyzing competitors, including product comparison, pricing intel, GTM analysis, and SWOT.
+- [How to Monitor SaaS Competitors](https://gist.github.com/oxnr/fbd033df6b72c0f11974e07e71ccbfb6) — Practical playbook covering the 5 signals that matter, with automation setup instructions.
+- [CI Tools Comparison 2026](https://gist.github.com/oxnr/aeee88bbd176ef3251fa1c3087ff602e) — Side-by-side comparison of competitive intelligence tools from free to enterprise, with decision framework.
+
 ## Data Sources
 
 ### Public Financial Data
@@ -75,15 +84,15 @@ Track competitor hiring patterns to predict product roadmap and expansion:
 ## Reports & Research
 
 ### AI-Generated Reports
-- [ZeroIntel Reports](https://oxnr.github.io/zhc/order.html) — Custom AI-powered competitive intelligence reports delivered in 24 hours. Tiers from $49 (Quick Intel) to $249 (War Room).
-- [ZeroIntel Sample Report](https://oxnr.github.io/zhc/sample-report.html) — See a sample competitive analysis report.
+- [ZeroIntel Reports](https://zerointel.xyz/order) — Custom AI-powered competitive intelligence reports delivered in 24 hours. Tiers from $49 (Quick Intel) to $249 (War Room).
+- [ZeroIntel Sample Report](https://zerointel.xyz/sample-report) — See a sample competitive analysis report.
 
 ### SaaS Comparisons
 Popular head-to-head comparisons for B2B buyers:
-- [ClickUp vs Monday](https://oxnr.github.io/zhc/comparisons/) — Project management tools
-- [Jira vs Linear](https://oxnr.github.io/zhc/comparisons/) — Developer issue tracking
-- [Pipedrive vs HubSpot CRM](https://oxnr.github.io/zhc/comparisons/) — Sales CRM platforms
-- [View all comparisons →](https://oxnr.github.io/zhc/comparisons/)
+- [ClickUp vs Monday](https://zerointel.xyz/comparisons/) — Project management tools
+- [Jira vs Linear](https://zerointel.xyz/comparisons/) — Developer issue tracking
+- [Pipedrive vs HubSpot CRM](https://zerointel.xyz/comparisons/) — Sales CRM platforms
+- [View all comparisons →](https://zerointel.xyz/comparisons/)
 
 ## Books
 
