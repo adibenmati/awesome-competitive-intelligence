@@ -64,6 +64,7 @@ Free resources for doing competitive intelligence:
 - [SEC EDGAR](https://www.sec.gov/edgar) — Public company filings (10-K, 10-Q, 8-K).
 - [Crunchbase](https://www.crunchbase.com/) — Startup funding data.
 - [PitchBook](https://pitchbook.com/) — Private company financials and M&A.
+- [Funding Signals](https://fundingsignals.net/?utm_source=github&utm_medium=readme&utm_campaign=awesome-competitive-intelligence) — API that scores and surfaces SEC Form D private funding filings within hours of filing, for tracking when competitors or prospects raise capital. Free tier available.
 
 ### Product & Pricing Intelligence
 - [G2](https://www.g2.com/) — Software reviews and comparisons.
