@@ -19,6 +19,7 @@
 - [Crayon](https://www.crayon.co/) — AI-driven competitive intelligence platform for enterprise teams.
 - [Klue](https://klue.com/) — Competitive enablement for sales teams.
 - [Kompyte](https://www.kompyte.com/) — Automated competitor tracking and battlecards.
+- [FalcoScan](https://falcoscan.com) — AI market intelligence: 7,000+ AI products across 29 markets, with rankings, rival tracking and a record of shut-downs and acquisitions.
 
 ### Traditional Tools
 - [SEMrush](https://www.semrush.com/) — SEO and competitive research suite.
