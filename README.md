@@ -20,6 +20,7 @@
 - [Klue](https://klue.com/) — Competitive enablement for sales teams.
 - [Kompyte](https://www.kompyte.com/) — Automated competitor tracking and battlecards.
 - [AdMapix](https://www.admapix.com/) — AI ad creative intelligence for researching competitor advertising and market signals across mobile games, apps, and ecommerce.
+- [FalcoScan](https://falcoscan.com/) — AI market intelligence with product rankings, competitor tracking and sourced information on shutdowns and acquisitions.
 
 ### Traditional Tools
 
